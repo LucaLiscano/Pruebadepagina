@@ -12,4 +12,18 @@
 nav{
     background-color: blueviolet;
     padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+@media (max-width: 600px){
+
+    nav{
+      background-color: black;  
+      flex-direction: column;
+    }
+    .nav-enlace{
+        margin: 10px 0;
+    
+    }
+
 }
