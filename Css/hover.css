@@ -1,0 +1,13 @@
+button{
+    background-color: blueviolet;
+    color: blanchedalmond;
+}
+
+button:hover{
+    background-color: orange;
+     
+}
+
+button:active{
+    background-color: cadetblue;
+}
