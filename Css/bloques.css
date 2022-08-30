@@ -1,0 +1,9 @@
+h1{
+    background-color: blueviolet;
+    display: inline-block;
+}
+
+a{
+    background-color: blueviolet;
+    display: block; 
+}
