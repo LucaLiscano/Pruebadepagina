@@ -1,0 +1,15 @@
+.nav-enlace{
+    display: inline-block;
+    background-color: aqua;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+.nav-enlace:hover{
+    background-color: antiquewhite;
+}
+
+nav{
+    background-color: blueviolet;
+    padding: 10px;
+}
